@@ -39,22 +39,21 @@ global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '0895411143170'
 global.ppulsa2 = '0895411143170'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/SeanChann'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '62895411143170'
+global.nomorown = '62895411143170'
+global.nomorown1 = '62895411143170'
+global.namebot = 'DarkEater'
+global.nameown = 'TiaChannn'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['62882007740950'],
+  ['62895428344493'],
+  ['62895411143170', 'TiaChann', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,7 +103,7 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
+global.wm = 'By ' //Main Watermark
 global.wm2 = 'NexEp'
 global.wm3 = 'NexBotz | By NexEp'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
