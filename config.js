@@ -103,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By ' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By https://bili.im/XJZKsMM' //Main Watermark
+global.wm2 = 'https://bili.im/XJZKsMM'
+global.wm3 = 'https://bili.im/XJZKsMM | By TiaChann'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.titlebot = `https://bili.im/XJZKsMM | ʙʏ ${global.nameown}`
+global.author = 'https://bili.im/XJZKsMM' 
+global.packname = 'https://bili.im/XJZKsMM'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'Februari 18 2023'
 
 
 /*============== LOGO ==============*/
