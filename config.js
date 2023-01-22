@@ -25,20 +25,20 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://instagram.com/setia._awann'
+global.syt = 'https://www.youtube.com/@darkeater269'
+global.sgh = 'https://github.com/Wadcawtgt12'
+global.sgc = 'https://animeforallhuman.blogspot.com/'
+global.swa = 'wa.me/62895411143170'
+global.swb = 'https://discord.gg/Sz3vNvJDa7'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '0895411143170'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa = '0895411143170'
+global.ppulsa2 = '0895411143170'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
