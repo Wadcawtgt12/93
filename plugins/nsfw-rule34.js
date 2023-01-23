@@ -11,7 +11,11 @@ handler.help = ['rule34 <character>']
 handler.tags = ['nsfw']
 handler.command = ['rule34']
 
-handler.premium = true
+
+handler.private = true
+handler.owner = true
+handler.premium = false
+handler.register = true
 handler.limit = true
 
 export default handler

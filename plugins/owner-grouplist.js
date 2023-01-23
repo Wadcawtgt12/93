@@ -28,4 +28,7 @@ handler.menugroup = ['groups', 'grouplist']
 handler.tagsgroup = ['group']
 handler.command = /^((gro?ups?list)|(listgro?ups?)|(listgc))$/i
 
+handler.owner = true
+handler.register = true
+
 export default handler

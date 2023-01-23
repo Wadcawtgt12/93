@@ -16,14 +16,14 @@ ${pickRandom(global.pantun)}
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: ' OFFICIAL GROUP',
+                        displayText: ' OFFICIAL',
                         url: sgc
                     }
                 },
                 {
                     urlButton: {
                         displayText: ' SUBSCRIBE ME',
-                        url: 'https://youtu.be/pwLZpdfO8AU'
+                        url: 'https://www.youtube.com/@darkeater269'
                     }
                 },
                 {
@@ -57,5 +57,5 @@ function pickRandom(list) {
 }
 
 global.pantun = [
-' buah semangka masuk botol, muka anda kaya kontol.',
+' buah semangka masuk botol, muka anda kaya konsole.',
 ]
