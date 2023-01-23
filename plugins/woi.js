@@ -33,9 +33,9 @@ contextInfo: { externalAdReply :{
                         mediaType: 2,
                         description: 'anu',
                         title: `A MIMIR🎧 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `Join Grup`,          previewType: 0,
+                        body: `yutub`,          previewType: 0,
                         thumbnail: await (await fetch(`https://i.ibb.co/5st560k/fake.jpg`)).buffer(),
-                        sourceUrl: 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
+                        sourceUrl: 'https://www.youtube.com/@darkeater269'
             }
         }
     })

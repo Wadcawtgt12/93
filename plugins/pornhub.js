@@ -12,6 +12,7 @@ handler.command = /^(pornhub)$/i
 handler.register = true
 
 handler.limit = true
-handler.premium = true
+handler.premium = false
+handler.owner = true
 
 export default handler

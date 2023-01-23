@@ -21,21 +21,6 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  View Trainer List Here: 
  https://docs.google.com/spreadsheets/u/0/d/1iUP6iBhY7GGEFBJE0w59UYuszFkqHOxusLARCtxPVq0/htmlview 
   
- Telegram Group: 
- https://t.me/joinchat/eQh39KlXrP1lMzk1 
-  
- =========================== 
- ⮕ *Kanpur, UP* 
-  
- Enter Trainer Code Here: 
- https://tinyurl.com/PoGoKanpurForm 
-  
- View Trainer List Here: 
- https://tinyurl.com/PoGoKanpurCodes 
-  
- WhatsApp Group: 
- https://chat.whatsapp.com/K6xVvUykwZTHGOyNQgN3Ws 
-  
  =========================== 
  `.trim(), `./media/trainerlist.jpg`, [ 
  [`ᴏᴋ 👌`, `Ok`] 

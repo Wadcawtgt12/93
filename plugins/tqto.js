@@ -12,7 +12,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 let cap = `*BIG THANKS TO*
     
 Terutama Terimakasih Teruntuk:
-➸ @${'628812743180'.split('@')[0]}
+➸ @${'62895411143170'.split('@')[0]}
 
 Terimakasih Juga Untuk Kang Banned:
 ➸ 0@s.whatsapp.net
@@ -57,7 +57,7 @@ Terimakasih Juga Untuk Kang Banned:
 • Orang-orang yang Berdonasi
 ─────────────────────`
   let buttonMessage= {
-'document':{'url':'https://youtu.be/dd2FWLD6H9Q'},
+'document':{'url':'https://www.youtube.com/@darkeater269'},
 'mimetype':global.ddocx,
 'fileName':'NexBotz',
 'fileLength':fsizedoc,
@@ -66,13 +66,13 @@ Terimakasih Juga Untuk Kang Banned:
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/hklv-Ysqqac',
+'mediaUrl':'https://www.youtube.com/@darkeater269',
 'mediaType':2,
 'previewType':'pdf',
 'title':`A MIMIR🎧: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
 'body':`By NexEp`,
 'thumbnail':await(await fetch('https://telegra.ph/file/fb6ed7b403be07c191060.jpg')).buffer(),
-'sourceUrl':'https://youtu.be/dd2FWLD6H9Q'}},
+'sourceUrl':'https://www.youtube.com/@darkeater269'}},
 'caption':cap,
 'footer':`Ini Ucapan Terima Kasih Untuk Orang Yang Telah Berpatisipasi
 
