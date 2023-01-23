@@ -13,6 +13,9 @@ let handler = async (m, { conn, args }) => {
 }
 handler.help = ['linkgroup']
 handler.tags = ['group']
+handler.admin = true
+handler.group = true
+handler.botAdmin = true
 handler.command = /^link(gro?up)?$/i
 
 

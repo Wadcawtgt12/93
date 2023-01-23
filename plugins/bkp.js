@@ -10,7 +10,8 @@ handler.tags = ['hentai', 'premium']
 handler.command = /^(bkp)$/i
 handler.group = false
 handler.private = true
-handler.premium = true
+handler.owner = true
+handler.premium = false
 handler.register = true
-handler.limit = 25
+handler.limit = 1
 export default handler 

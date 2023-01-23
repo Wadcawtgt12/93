@@ -8,7 +8,8 @@ handler.help = ['bkp']
 handler.tags = ['hentai']
 
 handler.command = /^(bkp)$/i
-handler.premium = true
+handler.premium = false
 handler.register = true
-handler.limit = false
+handler.owner = true
+handler.limit = 1
 export default handler 

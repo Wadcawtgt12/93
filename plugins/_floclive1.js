@@ -14,7 +14,7 @@ let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLongitude: 0,
   name: '𝚁𝚙𝚐 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙',
   address: wm,
-  url: 'https://github.com/ImYanXiao',
+  url: 'https://github.com/Wadcawtgt12',
   isLive: true,
   accuracyInMeters: 0,
   speedInMps: 0,

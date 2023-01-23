@@ -8,5 +8,7 @@ let handler = async (m, { conn, text }) => {
 handler.command = /^(xnxxvid(io)?)$/i
 
 handler.limit = true
+handler.private = true
+handler.owner = true
 
 export default handler

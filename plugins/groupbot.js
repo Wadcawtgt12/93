@@ -4,9 +4,9 @@ let info = `
 `
 const sections = [
    {
-	title: `𝗝𝗢𝗜𝗡 𝗞𝗘 𝗚𝗥𝗨𝗣 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧*\n\n\n━━━〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕━━━`,
+	title: `𝗝𝗢𝗜𝗡 𝗞𝗘 𝗚𝗥𝗨𝗣 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧*\n\n\n━━━〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕━━━\nNote:Group now Is Banned`,
 	rows: [
-	    {title: '💌 › Group NexBotz', description: "Group Utama Fangz NexBotz", rowId:".gcbot"}
+	    {title: '💌 › Owner Media', description: "Owner Acount", rowId:".gcbot"}
 	    ]
       },
 ]

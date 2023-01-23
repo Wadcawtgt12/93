@@ -19,14 +19,14 @@ const message = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: 'Beli Sc? Klik',
-                        url: 'https://wa.me/6288279268363'
+                        displayText: 'Owner bot? Klik',
+                        url: 'https://wa.me/62895411143170'
                     }
                 },
                 {
                     urlButton: {
                         displayText: 'Ke YouTube',
-                        url: 'https://youtu.be/pwLZpdfO8AU',
+                        url: 'https://www.youtube.com/@darkeater269',
                     }
                 },
             ]
@@ -34,13 +34,13 @@ const message = {
         conn.sendMessage(m.chat, message)
 conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/pwLZpdfO8AU',
+                        sourceUrl: 'hhttps://www.youtube.com/@darkeater269',
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
-                        mediaUrl: 'https://youtu.be/pwLZpdfO8AU'
+                        mediaUrl: 'https://www.youtube.com/@darkeater269'
                         
                       }}
 })
